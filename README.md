@@ -60,7 +60,7 @@ Once the application is running, you can perform the following:
 
 Access the API:
 Visit http://localhost:8080/ to access the application endpoints.
-login using user below user using password: fun123 
+login using user below user using password: password123 
     user name: priya, shilpa, max. (These users have different access roles EMPLOYEE, MANAGER, and ADMIN respectively which demonstrate spring security) 
 
 Click on the 'Employees Details' page on home page to view all employees where you can add, update delete employes(CRUD operations). 
