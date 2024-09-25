@@ -3,16 +3,16 @@ This project is developed using the Spring Boot framework to build a Java applic
 
  
 ## Features ##
-## Spring Boot MVC: Implements the Model-View-Controller pattern for structuring web applications.
-## Spring Boot CRUD: 
+ Spring Boot MVC: Implements the Model-View-Controller pattern for structuring web applications.
+ Spring Boot CRUD: 
     Supports Create, Read, Update, and Delete operations on entities in the application.
-## Spring AOP (Aspect-Oriented Programming): 
+ Spring AOP (Aspect-Oriented Programming): 
     Used for cross-cutting concerns like logging, transactions, etc.
-## Spring Security: 
+ Spring Security: 
     Secures the application by handling authentication and authorization.
-## Spring Hibernate: 
+ Spring Hibernate: 
     Provides ORM (Object-Relational Mapping) support for interacting with databases.
-## Excel and PDF Generation: 
+ Excel and PDF Generation: 
     Retrieves data from the database and generates Excel sheets and PDF reports.
 
 ## Technologies Used
