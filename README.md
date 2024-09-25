@@ -1,5 +1,5 @@
 # SpringBoot_Java_Project
-This project is developed using the Spring Boot framework to build a Java application with various key Spring features such as MVC, CRUD operations, AOP, Security, and Hibernate. Additionally, it includes functionality to generate Excel sheets and PDF files from the database.
+This project is developed using the Spring Boot framework to build a Java application with various key Spring features such as MVC, CRUD operations, AOP, Security, and Spring Data JPA. Additionally, it includes functionality to generate Excel sheets and PDF files from the database.
 
  
 ## Features ##
@@ -11,7 +11,7 @@ This project is developed using the Spring Boot framework to build a Java applic
  
  Spring Security: Secures the application by handling authentication and authorization.
  
- Spring Hibernate: Provides ORM (Object-Relational Mapping) support for interacting with databases.
+ Spring Data JPA : Provides support for interacting with databases.
  
  Excel and PDF Generation: Retrieves data from the database and generates Excel sheets and PDF reports.
  
