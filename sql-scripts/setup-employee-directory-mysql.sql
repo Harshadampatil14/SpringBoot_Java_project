@@ -18,16 +18,17 @@ CREATE TABLE `members` (
 --
 -- Inserting data for table `members`
 --
--- NOTE: The passwords are encrypted using BCrypt
+-- NOTE: The passwords are encrypted using BCrypt (visit site to BCrypt
+-- password https://www.bcryptcalculator.com/)
 --
--- Default passwords here are: fun123
+-- Default passwords here are: password123
 --
 
 INSERT INTO `members`
 VALUES
-('priya','{bcrypt}$2a$10$qeS0HEh7urweMojsnwNAR.vcXJeXR1UcMRZ2WcGQl9YeuspUdgF.q',1),
-('shilpa','{bcrypt}$2a$10$qeS0HEh7urweMojsnwNAR.vcXJeXR1UcMRZ2WcGQl9YeuspUdgF.q',1),
-('max','{bcrypt}$2a$10$qeS0HEh7urweMojsnwNAR.vcXJeXR1UcMRZ2WcGQl9YeuspUdgF.q',1);
+('priya','{bcrypt}$2a$10$IYvbEbHbgVSsie8.KfWpNukJoyCwuiZOGFxu.oE3vNoKWJDT.Kg6a',1),
+('shilpa','{bcrypt}$2a$10$IYvbEbHbgVSsie8.KfWpNukJoyCwuiZOGFxu.oE3vNoKWJDT.Kg6a',1),
+('max','{bcrypt}$2a$10$IYvbEbHbgVSsie8.KfWpNukJoyCwuiZOGFxu.oE3vNoKWJDT.Kg6a',1);
 
 
 --
