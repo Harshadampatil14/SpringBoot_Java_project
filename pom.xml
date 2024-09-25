@@ -8,7 +8,7 @@
 		<version>3.1.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.luv2code.springboot</groupId>
+	<groupId>com.employees.springboot</groupId>
 	<artifactId>cruddemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>cruddemo</name>
