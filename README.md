@@ -3,8 +3,7 @@ This project is developed using the Spring Boot framework to build a Java applic
 
  
 ## Features ##
-## Spring Boot MVC: 
-    Implements the Model-View-Controller pattern for structuring web applications.
+## Spring Boot MVC: Implements the Model-View-Controller pattern for structuring web applications.
 ## Spring Boot CRUD: 
     Supports Create, Read, Update, and Delete operations on entities in the application.
 ## Spring AOP (Aspect-Oriented Programming): 
