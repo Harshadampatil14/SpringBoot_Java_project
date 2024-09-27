@@ -16,8 +16,8 @@ public class PdfService {
     private Logger logger = LoggerFactory.getLogger(PdfService.class);
     public ByteArrayInputStream createPdf() {
         logger.info("Create PDF Started..");
-        String title = "Welcome to Learn Code with Harshada";
-        String content = "We provide technical content. Please do suscribe.. ";
+        String title = "PDF Generation.";
+        String content = "Sample PDF created by Harshada. Thank you. ";
 
         ByteArrayOutputStream out = new ByteArrayOutputStream();
         Document document = new Document();
