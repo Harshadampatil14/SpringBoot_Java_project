@@ -31,7 +31,7 @@ public class PdfService {
 
         Font fontContent = FontFactory.getFont(FontFactory.HELVETICA,18);
         Paragraph contentPparagraph = new Paragraph(content, fontContent);
-        contentPparagraph.add( new Chunk("Wow this text is added after creating.."));
+        contentPparagraph.add( new Chunk("Adding Chunk to the PDF."));
         document.add(contentPparagraph);
         document.close();
 
